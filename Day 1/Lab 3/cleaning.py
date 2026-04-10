@@ -1,5 +1,5 @@
 import pandas as pd
-df=pd.read_csv("D:\\mini project\\train.csv")
+df=pd.read_csv("C:\\JPOWER4\\OneDrive - JPOWER4\\Training\\PPTx - Content\\Advanced-Power-BI-Training\\Day 1\\Lab 3\\train.csv")
 print(df.info())
 print()
 print(df.isnull().sum())
